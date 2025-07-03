@@ -2,6 +2,14 @@
 
 This project uses a machine learning model (Random Forest) to predict whether hospital patients are **high-risk** based on their medical data. If high-risk patients are detected, the system **saves alerts** and can be extended to send notifications via email/SMS.
 
+Hospital Risk Alert System
+This project uses a machine learning model to classify hospital patients as high-risk and send alerts.
+Features
+⦁	Input: CSV with patient records
+⦁	ML Model: Random Forest
+⦁	GUI: Streamlit interface
+⦁	Alerts: Email/SMS if patient is high-risk
+⦁	Data Storage: Save records in CSV/Database
 ---
 
 ## 📌 Features
